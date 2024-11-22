@@ -1,0 +1,7 @@
+C:\Users\luiz.hlribeiro\source\repos\carteiraMotorista\carteiraMotorista\bin\Debug\carteiraMotorista.exe.config
+C:\Users\luiz.hlribeiro\source\repos\carteiraMotorista\carteiraMotorista\bin\Debug\carteiraMotorista.exe
+C:\Users\luiz.hlribeiro\source\repos\carteiraMotorista\carteiraMotorista\bin\Debug\carteiraMotorista.pdb
+C:\Users\luiz.hlribeiro\source\repos\carteiraMotorista\carteiraMotorista\obj\Debug\carteiraMotorista.csproj.AssemblyReference.cache
+C:\Users\luiz.hlribeiro\source\repos\carteiraMotorista\carteiraMotorista\obj\Debug\carteiraMotorista.csproj.CoreCompileInputs.cache
+C:\Users\luiz.hlribeiro\source\repos\carteiraMotorista\carteiraMotorista\obj\Debug\carteiraMotorista.exe
+C:\Users\luiz.hlribeiro\source\repos\carteiraMotorista\carteiraMotorista\obj\Debug\carteiraMotorista.pdb
